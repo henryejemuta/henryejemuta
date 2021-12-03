@@ -1,5 +1,6 @@
 ### Hi there 👋
 - 📫 Reach out to me on: [Twitter](https://twitter.com/henryejemuta), [StackOverflow](https://stackoverflow.com/story/henryejemuta), and on [LinkedIn](https://www.linkedin.com/in/henryejemuta)...
+- 🌱 Always learning...
 
 <!--
 **henryejemuta/henryejemuta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
