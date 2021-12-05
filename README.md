@@ -1,6 +1,6 @@
 ### Hi there 👋
 - 📫 Reach out to me on: [Twitter](https://twitter.com/henryejemuta), [StackOverflow](https://stackoverflow.com/story/henryejemuta), and on [LinkedIn](https://www.linkedin.com/in/henryejemuta)...
-- 🎟️ Check out my [Online CV on StackOverflow](https://stackoverflow.com/cv/henryejemuta)
+<!--- 🎟️ Check out my [Online CV on StackOverflow](https://stackoverflow.com/cv/henryejemuta)-->
 - 🌱 Always learning...
 
 <!--
