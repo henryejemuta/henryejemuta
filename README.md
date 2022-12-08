@@ -9,15 +9,6 @@
 - 🔭 I’m currently working on [UsefulSign](https://usefulpdf.com/electronic-signature)
 
 
-### Menu
-  - [My Favourite Tech Stack](#%EF%B8%8F-my-favourite-tech-stack)
-  - [Github Stats](#%EF%B8%8F-my-github-stats)
-  - [Language Stats](#%EF%B8%8F-language-stats)
-  - [Github Trophies](#-github-trophies)
-<br />
-
-
-
 ### 🛠️ My Favourite Tech Stack
 <hr />
 
@@ -48,36 +39,6 @@
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
 </p>
 <br /><br />
-
-
-### 〽️ My Github Stats 
-<hr />
-
-<a href="https://github.com/henryejemuta">
-  <img src="https://github-readme-stats.vercel.app/api?username=henryejemuta&count_private=true&show_icons=true" />
-</a>
-<br /><br /><br /><br />
-
-
-
-### 〽️ Language Stats 
-<hr />
-
-<a href="https://github.com/henryejemuta">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=henryejemuta&langs_count=6&layout=compact&hide=Visual%20Basic%20.NET,C%23">
-</a>
-<br /><br /><br /><br />
-
-
-
-### 🏆 Github Trophies
-<hr />
-
-<a href="https://github.com/henryejemuta">
-  <img src="https://github-profile-trophy.vercel.app/?username=henryejemuta&theme=algolia&column=4">
-</a>
-<br /><br /><br /><br />
-
 
 <!--
 **henryejemuta/henryejemuta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
