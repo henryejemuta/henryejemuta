@@ -6,7 +6,7 @@
 
 - 📫 Reach out to me on: [Twitter](https://twitter.com/henryejemuta), or on [LinkedIn](https://www.linkedin.com/in/henryejemuta)...
 - 🌱 Always learning...
-- 🔭 I’m currently working on [DoxFlowy](https://doxflowy.com) and learning [Go](https://go.dev/doc/tutorial/getting-started) 
+- 🔭 I’m currently working on [Penstack](https://penstackinc.com)
 
 
 ### 🛠️ My Favourite Tech Stack
