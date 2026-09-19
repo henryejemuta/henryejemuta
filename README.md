@@ -116,7 +116,7 @@
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=henryejemuta&style=for-the-badge&color=0A66C2" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=henryejemuta&style=flat" width="1" height="1" alt="" />
 </p>
 
 <!--
